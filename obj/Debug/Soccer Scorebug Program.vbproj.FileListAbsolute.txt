@@ -43,3 +43,15 @@ C:\Users\vishv\OneDrive\BCSN\Program\Volleyball Socreboard Program\Soccer Scoreb
 C:\Users\vishv\OneDrive\BCSN\Program\Volleyball Socreboard Program\Soccer Scorebug Program\Soccer Scorebug Program\obj\Debug\Soccer Scorebug Program.exe
 C:\Users\vishv\OneDrive\BCSN\Program\Volleyball Socreboard Program\Soccer Scorebug Program\Soccer Scorebug Program\obj\Debug\Soccer Scorebug Program.xml
 C:\Users\vishv\OneDrive\BCSN\Program\Volleyball Socreboard Program\Soccer Scorebug Program\Soccer Scorebug Program\obj\Debug\Soccer Scorebug Program.pdb
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\bin\Debug\Soccer Scorebug Program.exe.config
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\bin\Debug\Soccer Scorebug Program.exe
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\bin\Debug\Soccer Scorebug Program.pdb
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\bin\Debug\Soccer Scorebug Program.xml
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\obj\Debug\Soccer Scorebug Program.vbprojResolveAssemblyReference.cache
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\obj\Debug\Soccer_Scorebug_Program.Form1.resources
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\obj\Debug\Soccer_Scorebug_Program.Resources.resources
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\obj\Debug\Soccer Scorebug Program.vbproj.GenerateResource.Cache
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\obj\Debug\Soccer Scorebug Program.vbproj.CoreCompileInputs.cache
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\obj\Debug\Soccer Scorebug Program.exe
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\obj\Debug\Soccer Scorebug Program.xml
+C:\Users\Vishvak\Documents\Volleyball-Scorebug\obj\Debug\Soccer Scorebug Program.pdb
